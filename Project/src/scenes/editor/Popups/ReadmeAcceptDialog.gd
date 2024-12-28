@@ -21,10 +21,10 @@ extends AcceptDialog
 #      Constants
 #-------------------------------------------------
 
-const URL_GITHUB_ISSUES = "https://github.com/durdadan/mega-man-maker-mmlv-editor/issues"
-const URL_REPORT = "https://github.com/durdadan/mega-man-maker-mmlv-editor/issues/new/choose"
+const URL_GITHUB_ISSUES = "https://github.com/Firstject/mega-man-maker-mmlv-editor/issues"
+const URL_REPORT = "https://github.com/Firstject/mega-man-maker-mmlv-editor/issues/new/choose"
 const URL_GODOT = "https://godotengine.org/"
-const URL_CONTRIBUTORS = "https://github.com/durdadan/mega-man-maker-mmlv-editor/blob/master/CONTRIBUTORS.md"
+const URL_CONTRIBUTORS = "https://github.com/Firstject/mega-man-maker-mmlv-editor/blob/master/CONTRIBUTORS.md"
 
 #-------------------------------------------------
 #      Properties

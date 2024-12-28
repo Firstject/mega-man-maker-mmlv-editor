@@ -103,7 +103,7 @@ const ID_MENU_HELP_SEND_FEEDBACK = 5
 const ID_MENU_HELP_ABOUT = 7
 
 const FEEDBACK_URL = "https://forms.gle/wrFpgn6S6FcHCV2i8"
-const RELEASE_NOTES_URL = "https://github.com/durdadan/mega-man-maker-mmlv-editor/releases"
+const RELEASE_NOTES_URL = "https://github.com/godot-mega-man/mega-man-maker-mmlv-editor/releases"
 
 #-------------------------------------------------
 #      Properties

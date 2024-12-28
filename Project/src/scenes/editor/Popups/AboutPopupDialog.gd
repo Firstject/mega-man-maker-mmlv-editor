@@ -21,8 +21,8 @@ extends PopupDialog
 #      Constants
 #-------------------------------------------------
 
-const CONTRIBUTION_CODE_URL = "https://github.com/durdadan/mega-man-maker-mmlv-editor/#contribution-guidelines"
-const SOURCE_CODE_URL = "https://github.com/durdadan/mega-man-maker-mmlv-editor"
+const CONTRIBUTION_CODE_URL = "https://github.com/godot-mega-man/mega-man-maker-mmlv-editor/#contribution-guidelines"
+const SOURCE_CODE_URL = "https://github.com/godot-mega-man/mega-man-maker-mmlv-editor"
 const ROADMAP_URL = "https://trello.com/b/vuDpFyE6/mmlv-editor"
 
 #-------------------------------------------------

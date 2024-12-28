@@ -253,7 +253,7 @@ config/windows_native_icon="res://icon.ico"
 config/auto_accept_quit=false
 config/version="0.10.5.1"
 config/year="2020-2023"
-config/project_creator="Firstject Snowflakes - JDE - Dmitry97"
+config/project_creator="Firstject Snowflakes - JDE"
 config/test_version=false
 
 [autoload]

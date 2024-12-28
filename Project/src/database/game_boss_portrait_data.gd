@@ -268,29 +268,29 @@ const DATA = {
 		"name" : "Wily Machine 6",
 		"texture" : preload("res://assets/images/boss_portraits/bossportrait67.png")
 	},
-	69 : {
+	68 : {
 		"name" : "Galaxy Man",
+		"texture" : preload("res://assets/images/boss_portraits/bossportrait68.png")
+	},
+	69 : {
+		"name" : "Burst Man",
 		"texture" : preload("res://assets/images/boss_portraits/bossportrait69.png")
 	},
 	70 : {
-		"name" : "Burst Man",
+		"name" : "Tengu Man",
 		"texture" : preload("res://assets/images/boss_portraits/bossportrait70.png")
 	},
 	71 : {
-		"name" : "Tengu Man",
+		"name" : "Jewel Man",
 		"texture" : preload("res://assets/images/boss_portraits/bossportrait71.png")
 	},
 	72 : {
-		"name" : "Jewel Man",
+		"name" : "Nitro Man",
 		"texture" : preload("res://assets/images/boss_portraits/bossportrait72.png")
 	},
 	73 : {
-		"name" : "Nitro Man",
-		"texture" : preload("res://assets/images/boss_portraits/bossportrait73.png")
-	},
-	74 : {
 		"name" : "Fuse Man",
-		"texture" : preload("res://assets/images/boss_portraits/bossportrait74.png")
+		"texture" : preload("res://assets/images/boss_portraits/bossportrait73.png")
 	},
 }
 
